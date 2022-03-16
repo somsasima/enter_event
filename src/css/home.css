@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  color: #fff;
+}
+.inputFiled {
+  width: 13.5rem;
+  height: 1.2rem;
+  border: none;
+  background-color: #e2e3e2;
+  color: #000;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+  padding: 5px;
+  margin-bottom: 1rem;
+}
+.btnCheck {
+  width: 14rem;
+  height: 1.8rem;
+  border: none;
+  border-radius: 10px;
+  background-color: #e69232;
+  color: #fff;
+  margin-bottom: 1rem;
+}
